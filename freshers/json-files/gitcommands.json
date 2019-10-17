@@ -14,5 +14,9 @@ IT BASICALLY MAKES THE COPY OF THE ORIGINAL PROJECT.
   {
     "title": "git branch [branch-name]",
     "description": "This command creates a branch from a master branch, which we can play around with and make changes to."
-  }
+  },
+ {
+    "title": "git clone [url]",
+    "description":"This command is used to obtain a repository from an existing url"
+ }
 ]
